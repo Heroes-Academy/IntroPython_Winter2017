@@ -50,7 +50,7 @@ __ HeroesSite_
    :caption: Course Contents
 
    week1
-
+   week2
 ..
    week2
    week3
