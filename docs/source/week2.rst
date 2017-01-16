@@ -11,7 +11,9 @@ and get used to the differences between strings and numbers.
 Take Home Exercises
 -------------------
 
-I will determine this during class. It depends on how far we get. 
+Please see the :doc:`Week 2 Exercises <exercises/week2_takehome>` page for the exercises you should complete. 
+If you would like an extra challenge, 
+solve the problems in `harder_formulas <https://github.com/Heroes-Academy/IntroPython_Winter2017/blob/master/code/week02/harder_formulas.py>`_.
 
 Review
 ------
