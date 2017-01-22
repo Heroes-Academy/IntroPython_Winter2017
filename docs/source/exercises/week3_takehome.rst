@@ -46,7 +46,7 @@ Bonus
     random_number = random.randint(0, 6) # a random number between 0 and 6 (includes 0, doesn't include 6)
     random_number = random.randint(1, 7) # a random number between 1 and 7 (includes 1, doesn't include 7)
     
-
+3. Have a menu option be to input a word and turn it into pig latin. 
 
 
 
