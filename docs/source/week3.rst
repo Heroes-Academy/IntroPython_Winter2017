@@ -7,8 +7,8 @@ Refresh your knowledge from Week 2!
 Exercises
 ---------
 
-1. :doc:`Booeleans <exercises/week3_booleans>`
-2. :doc:`If-Elif-Else Statements <exercises/ifs>`
+1. :doc:`Booleans <exercises/week3_booleans>`
+2. :doc:`If-Elif-Else Statements <exercises/week3_ifs>`
 
 Terms
 -----
