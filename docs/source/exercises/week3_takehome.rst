@@ -21,6 +21,7 @@ Menu Options
 2. Each option should have a number at the front.
     - For example:  
 ::
+
     An Awesome Menu
     1. Tell a Joke
     2. Play a Game
