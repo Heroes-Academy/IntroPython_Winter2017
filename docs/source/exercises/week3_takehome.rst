@@ -24,6 +24,7 @@ Menu Options
     An Awesome Menu
     1. Tell a Joke
     2. Play a Game
+    
 3. Get the input choice from the user 
     - “What menu item do you want?”
 4. Check to see if that choice is equal to one of the options
