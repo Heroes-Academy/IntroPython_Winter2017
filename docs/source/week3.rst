@@ -3,6 +3,7 @@
 
 
 :doc:`Refresh your knowledge from Week 2! <refreshers/week3_refresher>`
+and if you finish quickly, :doc:`an extra challenge <exercises/week3_extrachallenge>`.
 
 Exercises
 ---------
