@@ -31,7 +31,7 @@ As an example, I've written the first one on the white board.
     item1 = str(5.0)
     item2 = "a" + "bunny"
     item3 = 2*2
-    item4 = item2[i]
+    item4 = item2[1]
     item5 = item2[:5]
     item6 = item4 + item5
     item7 = float(item1) * 3
