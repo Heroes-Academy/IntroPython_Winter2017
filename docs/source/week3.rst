@@ -13,7 +13,7 @@ Exercises
 Terms
 -----
 
-You know know the following terms!
+You should know the following terms!
 
 1. Boolean values (True and False)
 2. Boolean Algebra (and, or, not)
