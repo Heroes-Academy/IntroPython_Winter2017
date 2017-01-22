@@ -2,7 +2,7 @@
 ================================
 
 
-Refresh your knowledge from Week 2!
+:doc:`Refresh your knowledge from Week 2! <refreshers/week3_refresher>`
 
 Exercises
 ---------
