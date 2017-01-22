@@ -48,7 +48,7 @@ If ``x`` and ``y`` are Booleans, the expression ``x and y`` will only be ``True`
 ``x or y`` will only be ``True`` if at least one of them is ``True``.
 And of course, ``not x`` will just be the opposite of ``x``.
 
-We practiced evaluating Booleans using cards and complex conditions (suite == hearts and not number <= 5).
+We practiced evaluating Booleans using cards and complex conditions: :code:`(suit == hearts and not number <= 5)`.
 
 If Statements
 *************
