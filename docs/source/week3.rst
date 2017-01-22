@@ -8,8 +8,9 @@ and if you finish quickly, :doc:`an extra challenge <exercises/week3_extrachalle
 Exercises
 ---------
 
-1. :doc:`Booleans <exercises/week3_booleans>`
-2. :doc:`If-Elif-Else Statements <exercises/week3_ifs>`
+1. :doc:`In class: Booleans <exercises/week3_booleans>`
+2. :doc:`In class: If-Elif-Else Statements <exercises/week3_ifs>`
+3. :doc:`Week 3 Takehome Exercises <exercises/week3_takehome>`
 
 Terms
 -----
