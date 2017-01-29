@@ -48,40 +48,48 @@ There are 7 math operator types
     x % y
 
 There are shortcuts for math operators.  The following pairs of statements have the same result.
+Write down the result on a piece of paper. 
 
 .. code-block:: python
     :linenos:
-
+    
+    # Ex. 1
     x = 5
     y = 3
     # x = x + y
     x += y
 
+    # Ex. 2
     x = 5
     y = 3
     # x = x - y
     x -= y
 
+    # Ex. 3
     x = 5
     y = 3
     # x = x * y
     x *= y
 
+    # Ex. 4
     x = 5
     y = 3
     # x = x / y
     x /= y
 
+    # Ex. 5
     x = 5
     y = 3
     # x = x // y
     x //= y
 
+    # Ex. 6
     x = 5
     y = 3
     # x = x ** y
     x **= y
 
+    # Ex. 7 
     x = 5
     y = 3
     # x = x % y
@@ -98,30 +106,50 @@ There are boolean variables
     x = True
     x = False
 
-Variables can be compared to create boolean variables
+Variables can be compared to create boolean variables. What are the results of the comparisons below?
 
 .. code-block:: python
     :linenos:
 
     x = 42
     y = 41
+    
+    # Ex 1 
     x == y
+    
+    # Ex 2
     x != y
+    
+    # Ex 3
     x > y
+    
+    # Ex 4
     x >= y
+    
+    # Ex 5
     x < y
+    
+    # Ex 6
     x <= y
 
-Boolean variables can be combined using the special boolean keywords
+Boolean variables can be combined using the special boolean keywords. What are the results of the combinations below?
 
 .. code-block:: python
     :linenos:
 
     x = True
     y = False
+    
+    # Ex 1
     z1 = x and y
+    
+    # Ex 2
     z2 = x or y
+    
+    # Ex 3
     z3 = (x and y) or (not x and not y)
+    
+    # Ex 4
     z4 = (not x and y) or (x and not y)
 
 Code blocks let you group code.  In python, they are created with 4 spaces.
@@ -138,7 +166,8 @@ In pycharm and most python editors, hitting tab will just add 4 spaces.
 
 :code:`if` statements can be expanded using :code:`elif`.  
 :code:`elif` will only be used if the first :code:`if` is false.
-(hidden question: What needs to be put into the placeholder to make the above code work?)
+
+What needs to be put into the placeholder to make the code below work?
 
 .. code-block:: python
     :linenos:
@@ -159,7 +188,8 @@ Getting Input from Users
 ************************
 
 You can use the :code:`input` to get information from the user.
-Try the following.  What is missing?
+
+Fill in the place holders in the following:
 
 .. code-block:: python
     :linenos:
@@ -170,12 +200,19 @@ Try the following.  What is missing?
     print("\t 3. Option 3")
     x = input("What option do you choose?")
     # placeholder
-    if x == 1:
+    if # placeholder:
         print("x is 1")
-    elif x == 2:
+    elif # placeholder:
         print("x is 2")
-    elif x == 3:
+    elif # placeholder:
         print("x is 3")
     else:
         print("I'm not sure what x is")
 
+
+### Extra Challenge
+
+If you haven't completed the Week 3 Extra Challenge, go and do that! It's pretty tough. 
+
+
+If you did complete it, make your own encrypted message!

@@ -3,26 +3,26 @@
 
 `Turtles cheat sheet <https://github.com/Heroes-Academy/IntroPython_Fall2016/blob/master/code/week04/Turtles%20Cheat%20Sheet.pdf>`_
 
-Refresher
----------
-
-:doc:`Check out the new refresher page! <refreshers/week4_refresher>`
+Agenda
+------
 
 
-In class Exercises
-------------------
-
-:doc:`Link! <exercises/for_turtles>`
-
-
-Take home exercises
--------------------
-
-:doc:`Link to exercises <exercises/week4_takehome>`
+1. Complete the refresher exercises: :doc:`Week 4 Refresher Exercises. <refreshers/week4_refresher>`
+2. Listen to me tell you about for loops and turtles!
+3. Work on the Week 4 exercises: :doc:`Week 4 Exercises <exercises/week4_for_turtles>`
+4. Work on these at home (or in class, if you finish fast enough): :doc:`Week 4 Takehome Exercises <exercises/week4_takehome>`
 
 
 Review
 ------
+
+Terms you should know
+*********************
+
+1. :code:`for` loops
+2. the :code:`loop variable`
+3. :code:`range`
+
 
 From Simple to Complex variables
 ********************************

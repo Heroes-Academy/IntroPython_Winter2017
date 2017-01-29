@@ -89,7 +89,8 @@ Modify the code in Exercise 2 so that:
         - make the turtle write "fizz buzz"
     - else, make the turtle black and write nothing. 
     
-
+You can find the command for having the turtle "write" in the cheat sheet or on Python's help docs. 
+I usually search "python turtles" in google and find them that way!
 
 Bonus Exercise 1
 ****************
@@ -145,6 +146,7 @@ Do the following:
 ::
     turtle_list = [turtle.Turtle()]
     turtle_list.append(turtle.Turtle())
+    
 2. use a second for loop inside the main for loop to make each turtle move
 ::
     for t in turtle_list:
