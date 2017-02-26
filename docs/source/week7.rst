@@ -1,27 +1,24 @@
 [Week 7] Advanced collections and functions
 ===========================================
 
-I have written up a cookbook for you all to use in solving problems!
-You can find it by :doc:`clicking here <tutorials/cookbook>`
+Important point for today!
+--------------------------
+
+Keep in mind the **code structure**.  What is part of a function? What is part of
+an if statement? You should always know and keep in mind the **structure**.
 
 Refresher
 ---------
 
-At the start of class, you will be working on the refresher:
-:doc:`refresher link <refreshers/week7_refresher>`
+At the start of class, you will be working through a refresher.
+There are two parts. :doc:`Part 1 <refreshers/week7/part1>`
+and :doc:`Part 2 <refreshers/week7/part2>`
 
-Projects
---------
+In class Exercises
+------------------
 
-When you finish exercises, and over the week, you should be working on your projects.
-I have written a couple tutorials to assist you in accomplishing them:
-
-1. :doc:`Minecraft Architect <tutorials/f16_minecraft_architect>`
-2. :doc:`Interactive Stories <tutorials/f16_interactive_stories>`
-3. :doc:`Animation <tutorials/f16_animation>`
-
-
-
+After the slides, today we will be working with basic classes. 
+You can find the exercises :code:`here <exercises/week7_classes>`.
 
 
 
