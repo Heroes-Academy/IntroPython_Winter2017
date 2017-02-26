@@ -18,7 +18,7 @@ In class Exercises
 ------------------
 
 After the slides, today we will be working with basic classes. 
-You can find the exercises :code:`here <exercises/week7_classes>`.
+You can find the exercises :doc:`here <exercises/week7_classes>`.
 
 
 
