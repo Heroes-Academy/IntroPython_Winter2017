@@ -55,6 +55,7 @@ __ HeroesSite_
    week4
    week5
    week6
+   week7
 
 ..
    week4
