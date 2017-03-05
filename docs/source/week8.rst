@@ -5,24 +5,10 @@
 Overview
 --------
 
-In this class, we will go over the basics of classes. You will be implementing a basic object (kind of like Door below!)
-
-Then, you will work on your projects.  If you have a project to propose, you will talk about that in front of the class. 
-
-You should work on your projects at home.
-
+In this class, we will go over some more properties of classes!  Then, 
+you will work on your projects.  
 
 :doc:`Exercise <exercises/week8_classes>`
-
-Cookbooks
----------
-
-- :doc:`Python Cookbook <tutorials/cookbook>`
-    - This has examples of most of Python's syntax!
-- :doc:`Classes cookbook <tutorials/classes_cookbook>`
-    - This has examples of the basics of classes!
-
-
 
 Review
 -------
