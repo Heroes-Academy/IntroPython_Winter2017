@@ -10,7 +10,7 @@ You are going to be required to have the following:
     1. A presentation which you will give to your parents. 
     I've included an example one at the bottom of the page to help you with the framework of it. 
 
-Your presentation should include...
+Your presentation should...
 
     1. Describe the purpose of your project
     2. Outline the logic of your code
