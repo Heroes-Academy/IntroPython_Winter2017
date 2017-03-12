@@ -20,9 +20,9 @@ Your presentation should...
 Presentation Link
 ^^^^^^^^^^^^^^^^^
 
-You will give a presentation to your parents when we meet again in 2 weeks. 
+You will give a presentation to your parents next time we meet. 
 You will have time at the beginning of class to finish things up, but your presentation
-is due to me that Friday (December 16th). 
+is due to me that Friday. 
 
 Here is the presentation template:
 
